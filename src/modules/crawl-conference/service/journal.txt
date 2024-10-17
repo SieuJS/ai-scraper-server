@@ -1,0 +1,66 @@
+
+Title | Type | SJR | H index | Total Docs. (2023) | Total Docs. (3years) | Total Refs. (2023) | Total Cites (3years) | Citable Docs. (3years) | Cites / Doc. (2years) | Ref. / Doc. (2023) | %Female (2023) | 
+1 | Annual Review of Pathology: Mechanisms of Disease | journal | 11.748 Q1 | 147 | 22 | 63 | 3087 | 2361 | 63 | 28.74 | 140.32 | 33.33 | 
+2 | Annual Review of Plant Biology | journal | 7.555 Q1 | 298 | 28 | 109 | 4809 | 2473 | 104 | 18.76 | 171.75 | 37.89 | 
+3 | Nature Sustainability | journal | 7.366 Q1 | 115 | 250 | 516 | 9291 | 10802 | 379 | 18.52 | 37.16 | 34.58 | 
+4 | Genome Biology | journal | 7.197 Q1 | 301 | 288 | 896 | 20374 | 10700 | 865 | 9.65 | 70.74 | 39.38 | 
+5 | Fungal Diversity | journal | 6.787 Q1 | 123 | 18 | 67 | 5667 | 1404 | 64 | 20.37 | 314.83 | 42.86 | 
+6 | Molecular Plant | journal | 5.967 Q1 | 162 | 181 | 553 | 10789 | 9110 | 442 | 10.41 | 59.61 | 38.52 | 
+7 | Annual Review of Entomology | journal | 5.909 Q1 | 230 | 24 | 75 | 3272 | 1650 | 72 | 15.14 | 136.33 | 30.51 | 
+8 | Annual Review of Ecology, Evolution, and Systematics | book series | 5.403 Q1 | 247 | 22 | 74 | 2835 | 962 | 74 | 10.71 | 128.86 | 50.00 | 
+9 | Molecular Systems Biology | journal | 5.305 Q1 | 172 | 56 | 239 | 4036 | 2142 | 220 | 7.93 | 72.07 | 40.08 | 
+10 | Mycosphere | journal | 5.204 Q1 | 40 | 14 | 59 | 3439 | 910 | 58 | 10.23 | 245.64 | 39.38 | 
+11 | Trends in Ecology and Evolution | journal | 5.165 Q1 | 381 | 161 | 425 | 8938 | 4514 | 332 | 10.25 | 55.52 | 39.57 | 
+12 | Nature Plants | journal | 5.134 Q1 | 131 | 274 | 686 | 10476 | 6409 | 444 | 8.57 | 38.23 | 35.81 | 
+13 | Nature Ecology and Evolution | journal | 5.056 Q1 | 118 | 296 | 810 | 13696 | 7470 | 566 | 7.84 | 46.27 | 38.98 | 
+14 | Nature Food | journal | 4.891 Q1 | 57 | 223 | 615 | 5851 | 6699 | 317 | 10.33 | 26.24 | 47.92 | 
+15 | Studies in Mycology | journal | 4.821 Q1 | 118 | 11 | 28 | 2436 | 540 | 27 | 15.23 | 221.45 | 38.00 | 
+16 | Ecology Letters | journal | 4.497 Q1 | 313 | 183 | 638 | 14175 | 5567 | 300 | 7.63 | 77.46 | 32.73 | 
+17 | Biological Reviews | journal | 4.347 Q1 | 199 | 116 | 322 | 24582 | 4338 | 322 | 12.47 | 211.91 | 37.74 | 
+18 | Remote Sensing of Environment | journal | 4.310 Q1 | 350 | 431 | 1433 | 32671 | 19566 | 1423 | 11.99 | 75.80 | 31.14 | 
+19 | Molecular Biology and Evolution | journal | 4.061 Q1 | 245 | 280 | 1048 | 22808 | 10469 | 1025 | 10.73 | 81.46 | 38.15 | 
+20 | PLoS Biology | journal | 3.822 Q1 | 305 | 471 | 1083 | 28978 | 8954 | 1064 | 6.34 | 61.52 | 40.54 | 
+21 | ISME Journal | journal | 3.692 Q1 | 230 | 226 | 783 | 16228 | 9197 | 777 | 11.23 | 71.81 | 38.97 | 
+22 | Plant Cell | journal | 3.616 Q1 | 397 | 305 | 950 | 18558 | 7236 | 767 | 7.19 | 60.85 | 38.33 | 
+23 | Soil Biology and Biochemistry | journal | 3.453 Q1 | 266 | 256 | 921 | 18891 | 9993 | 916 | 10.47 | 73.79 | 39.41 | 
+24 | Evolution Letters | journal | 3.373 Q1 | 33 | 18 | 135 | 1227 | 574 | 19 | 3.51 | 68.17 | 42.31 | 
+25 | Biometrika | journal | 3.358 Q1 | 132 | 52 | 220 | 1791 | 775 | 213 | 3.07 | 34.44 | 27.20 | 
+26 | Frontiers in Ecology and the Environment | journal | 3.291 Q1 | 198 | 102 | 340 | 2313 | 1941 | 185 | 5.45 | 22.68 | 46.03 | 
+27 | Trends in Plant Science | journal | 3.204 Q1 | 310 | 203 | 465 | 11056 | 5544 | 446 | 10.84 | 54.46 | 31.77 | 
+28 | Conservation Letters | journal | 3.176 Q1 | 105 | 59 | 220 | 2444 | 1675 | 87 | 7.03 | 41.42 | 43.35 | 
+29 | Plant Communications | journal | 3.123 Q1 | 36 | 148 | 199 | 11612 | 2010 | 194 | 9.78 | 78.46 | 39.00 | 
+30 | Systematic Biology | journal | 3.098 Q1 | 201 | 84 | 267 | 6800 | 1754 | 267 | 6.31 | 80.95 | 31.22 | 
+31 | Current Opinion in Plant Biology | journal | 3.044 Q1 | 234 | 108 | 343 | 7112 | 3042 | 326 | 8.32 | 65.85 | 44.67 | 
+32 | Persoonia: Molecular Phylogeny and Evolution of Fungi | journal | 3.037 Q1 | 82 | 13 | 54 | 1960 | 521 | 54 | 9.61 | 150.77 | 32.50 | 
+33 | Journal of Integrative Plant Biology | journal | 3.028 Q1 | 109 | 190 | 448 | 14579 | 4739 | 423 | 10.39 | 76.73 | 39.64 | 
+34 | New Phytologist | journal | 3.007 Q1 | 305 | 797 | 2292 | 55838 | 20744 | 1991 | 8.56 | 70.06 | 39.78 | 
+35 | Trends in Food Science and Technology | journal | 2.999 Q1 | 251 | 281 | 1276 | 30166 | 24366 | 1193 | 17.47 | 107.35 | 42.32 | 
+36 | Plant Biotechnology Journal | journal | 2.998 Q1 | 152 | 272 | 698 | 15671 | 7590 | 693 | 9.98 | 57.61 | 38.33 | 
+37 | Current Biology | journal | 2.982 Q1 | 361 | 867 | 2759 | 42659 | 14075 | 2060 | 4.65 | 49.20 | 37.10 | 
+38 | Journal of Bioresources and Bioproducts | journal | 2.880 Q1 | 39 | 39 | 89 | 2470 | 1909 | 89 | 23.39 | 63.33 | 34.76 | 
+39 | Biochar | journal | 2.855 Q1 | 34 | 90 | 157 | 7768 | 2502 | 157 | 14.15 | 86.31 | 36.25 | 
+40 | Annual Review of Phytopathology | journal | 2.760 Q1 | 184 | 18 | 53 | 2606 | 537 | 53 | 9.56 | 144.78 | 33.33 | 
+41 | Global Ecology and Biogeography | journal | 2.744 Q1 | 184 | 166 | 535 | 12492 | 3839 | 510 | 6.51 | 75.25 | 33.33 | 
+42 | Comprehensive Reviews in Food Science and Food Safety | journal | 2.740 Q1 | 166 | 170 | 526 | 29119 | 8903 | 515 | 14.41 | 171.29 | 46.85 | 
+43 | Food Hydrocolloids | journal | 2.717 Q1 | 211 | 1016 | 2403 | 55349 | 31248 | 2402 | 12.49 | 54.48 | 45.88 | 
+44 | Ecological Monographs | journal | 2.697 Q1 | 173 | 37 | 131 | 4278 | 896 | 130 | 6.02 | 115.62 | 30.21 | 
+45 | Annual Review of Animal Biosciences | journal | 2.665 Q1 | 60 | 16 | 63 | 1926 | 640 | 60 | 8.82 | 120.38 | 38.64 | 
+46 | Methods in Ecology and Evolution | journal | 2.643 Q1 | 161 | 248 | 624 | 13585 | 4667 | 616 | 6.65 | 54.78 | 31.53 | 
+47 | Global Food Security | journal | 2.598 Q1 | 81 | 60 | 311 | 3823 | 3534 | 307 | 10.77 | 63.72 | 42.64 | 
+48 | Reviews in Aquaculture | journal | 2.573 Q1 | 86 | 131 | 339 | 21570 | 4486 | 327 | 11.78 | 164.66 | 33.54 | 
+49 | Ecography | journal | 2.540 Q1 | 153 | 121 | 455 | 9758 | 2921 | 451 | 5.82 | 80.64 | 31.43 | 
+50 | Quarterly Review of Biology | journal | 2.479 Q1 | 87 | 5 | 19 | 579 | 118 | 18 | 3.25 | 115.80 | 21.05 | 
+
+1 - 50 of 2461      
+
+Metrics based on Scopus® data as of March 2024  
+ 
+Developed by: 
+   Powered by: 
+   Follow us on @ScimagoJR  
+ 
+ Scimago Lab  , Copyright 2007-2024. Data Source: Scopus®  
+ Legal Notice  
+Privacy Policy  
+
+  
